@@ -13,7 +13,7 @@ public class ReadCountUpdateAction implements Action {
 	
 	private String path;
 	
-
+// 
 	@Override
 	public ActionForward execute(HttpServletRequest req, HttpServletResponse res) throws Exception {
 		
